@@ -17,17 +17,17 @@ public class Assignment {
 		
 		System.out.print("Enter your gender: ");
 		String str = input.next();
-		char gender = str.charAt(1);
+		char gender = str.charAt(0);
 		System.out.println("Gender : " + gender);
 		
 		System.out.print("Enter your age: ");
 		int age = input.nextInt();
 		System.out.println("Age : " + age);
 		
-		System.out.print("Enter your home address: ");
-		String address = input.nextLine();
-		System.out.println("Home Address : " + address);
-		
+		System.out.print("Enter Your Home : ");
+		String home = input.next();
+		System.out.println("Home " + home);
+
 		System.out.println();
 		System.out.println("Welcome to Leong's shop! We have the following items for sale:");
 		System.out.println("Types of Motorcycle");
@@ -45,12 +45,15 @@ public class Assignment {
 		System.out.println("How many Modenas KRISS 110 do you want?");
 		int numbera = input.nextInt();
 		
+		System.out.println();
 		System.out.println("How many CMC ARIO 110 do you want?");
 		int numberb = input.nextInt();
 		
+		System.out.println();
 		System.out.println("How many Demak MV 135 do you want?");
 		int numberc = input.nextInt();
 		
+		System.out.println();
 		System.out.println("How many SM Sport 110R5 do you want?");
 		int numberd = input.nextInt();
 		

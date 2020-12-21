@@ -3,11 +3,12 @@ Enter your name: Leong
 Name : Leong
 Enter your IC: 000411010730
 IC number : 000411010730
-Enter your gender: Female
-Gender : e
+Enter your gender: F
+Gender : F
 Enter your age: 20
 Age : 20
-Enter your home address: Home Address : 
+Enter Your Home : 367
+Home 367
 
 Welcome to Leong's shop! We have the following items for sale:
 Types of Motorcycle
@@ -17,14 +18,17 @@ Demak MV 135 : RM55200.0
 SM Sport 110R : RM3978.0
 
 How many Modenas KRISS 110 do you want?
-3
-How many CMC ARIO 110 do you want?
 2
-How many Demak MV 135 do you want?
-1
-How many SM Sport 110R5 do you want?
+
+How many CMC ARIO 110 do you want?
 1
 
-Your total is : RM27763.0
+How many Demak MV 135 do you want?
+3
+
+How many SM Sport 110R5 do you want?
+0
+
+Your total is : RM26581.0
 
 THANK YOU! PLEASE COME AGAIN!
